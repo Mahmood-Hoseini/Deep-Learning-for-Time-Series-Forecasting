@@ -25,4 +25,4 @@ Data fields
 - item_category_name - name of item category
 
 
-Kaggle competetion project: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+Kaggle link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
