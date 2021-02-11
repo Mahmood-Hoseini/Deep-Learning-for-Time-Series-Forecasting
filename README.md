@@ -1,7 +1,5 @@
 # Deep Learning for Time Series Forecasting
 
-Kaggle competetion project: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
-
 You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
 
 ## File descriptions
@@ -25,3 +23,6 @@ Data fields
 - item_name - name of item
 - shop_name - name of shop
 - item_category_name - name of item category
+
+
+Kaggle competetion project: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
